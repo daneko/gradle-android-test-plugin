@@ -34,8 +34,8 @@ uploadArchives {
 
                 name 'Gradle Android Test Plugin'
                 artifactId 'gradle-android-test-plugin'
-                groupId 'com.novoda'
-                version '0.9.7-SNAPSHOT'
+                groupId "$group"
+                version "$version"
                 url 'https://github.com/novoda/gradle-android-test-plugin'
                 description 'Unleash the full power  of unit test for your Android build'
                 inceptionYear '2013'
